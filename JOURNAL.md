@@ -1,3 +1,18 @@
+Journal #1 : Making the Case!
+by@aryansalvehub
+
+Total Time Spent : 2Hrs 32min
+
+By@aryansalvehub
+
+Starting the project, the plan was to make the case! For this hackpad, I am designing the case in two part, 1st part is to make upper body of the case and the other was to make the bottom of the case, the bottom case was a box with hollow space for the PCB and the space for USB connection of hackpad to the device. 
+<img width="1290" height="594" alt="image" src="https://github.com/user-attachments/assets/58642bb3-4ad7-4294-8ebd-4b64fd7c530f" />
+
+
+For the 2nd Part I made a simple plate with gap for the keys the OLED panel and for the rotating dial too. The design was too added in the 2nd part and Extended to part 1 an idea to add some more hand holding design with more than a box like some thing different from just box.
+<img width="827" height="677" alt="image" src="https://github.com/user-attachments/assets/8fb7422f-75cb-4e99-a5a2-669aa480c0d8" />
+
+
 Journal #2 by @Mwezi2000
 Total time - 1 hr 10 min 
 
