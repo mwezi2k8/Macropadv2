@@ -10,7 +10,8 @@ Starting the project, the plan was to make the case! For this hackpad, I am desi
 
 
 For the 2nd Part I made a simple plate with gap for the keys the OLED panel and for the rotating dial too. The design was too added in the 2nd part and Extended to part 1 an idea to add some more hand holding design with more than a box like some thing different from just box.
-<img width="827" height="677" alt="image" src="https://github.com/user-attachments/assets/8fb7422f-75cb-4e99-a5a2-669aa480c0d8" />
+![Uploading image.png…]()
+
 
 
 Journal #2 by @Mwezi2000
