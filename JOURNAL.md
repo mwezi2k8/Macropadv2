@@ -122,6 +122,23 @@ Time- 23 mins
 i finally updated my github reopo and uploaded all the pcb, BOM and readme files from my side
 
 
+Journal #7
+by@aryansalvehub
+
+time - 2hrs 9 min
+
+I have been working on my macropad’s firmware today. More precisely, I have been coding the 3×4 matrix keypad, rotary encoder, OLED display, and USB Human Interface Device in C++.
+
+In particular, I have been working on the creation of the layers, namely Code, Media, Streaming, and Text, each of which is supposed to have different actions depending on the key pressed. Moreover, I have been adding various shortcuts, such as copy, paste, save, undo, media controls, and text-related shortcuts.
+
+As I am relatively new to embedded programming, it took me a while to get familiar with the syntax, key identifiers, key macros, keyboard modifiers, and the way the rotary encoder and keys are read by microcontroller. Moreover, debugging some minor issues in code and syntax was also part of today’s work.
+
+In general, today I have learned how to establish a connection between the input mechanism and the output actions or data in the context of a custom macro pad and learned about the basics of embedded programming.
+
+
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/65617df4-503b-4522-a8a1-e315a33ff75b" />
+
+
 
 
 ￼
