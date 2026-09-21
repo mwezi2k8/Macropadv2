@@ -1,0 +1,10 @@
+Item,Reference,Quantity,Component / Value,Footprint,Description,Unit Price (USD),Total Price (USD)
+1,SW1 - SW12,12,Cherry MX Compatible Switch,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Mechanical keyboard switch (Gateron / Outemu / Cherry),0.25,3.0
+2,D1 - D12,12,1N4148 Diode,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,High-speed switching diode (DO-35),0.03,0.36
+3,SW13 (SCROLL1),1,EC11 Rotary Encoder,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,Rotary encoder with integrated push switch,1.1,1.1
+4,U1,1,Seeed Studio XIAO RP2040,Seeed_XIAO:Seeed-XIAO / DIP-14_W15.24mm,Dual-core ARM Cortex-M0+ MCU module,5.4,5.4
+5,J1,1,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,"1x4 pin male header, 2.54mm pitch",0.15,0.15
+6,DISP1 (External),1,"0.96"" I2C OLED Display",PinHeader_1x04_P2.54mm (Header),128x64 SSD1306 monochrome OLED module,2.5,2.5
+7,PCB,1,Custom 2-Layer PCB,85.91mm x 84.00mm,FR-4 2-Layer custom board (est. per board from 5-pack),1.5,1.5
+8,MISC1,12,1u Keycaps,Standard MX Stem,Standard 1u profile keycaps,0.2,2.4
+9,MISC2,1,Rotary Encoder Knob,6mm Shaft,Aluminum / plastic knob cap for 6mm shaft,0.75,0.75
