@@ -49,3 +49,36 @@ In the last part, I cleaned up the unwanted lines, adjusted some details and mad
 
 
 
+journal #4
+By @Mwezi2000
+
+Total time - 1hr 46 mins (pcb editor part 1) + 51 mins (art) + 3hrs 41 mins ( art again ) = 6hrs 18 mins  so after completing my schematics for pcb I wen off to the kicad pcb editor
+It was my first time using it, which was really fun! (I got stuck at making that grid for keys and did it manually at last-) I also did some changes on the pcb scheme, checked all the footprints then imported on pcb editor
+Then it was just arranging these components on their places which looked very congested at first
+But at last I was sure it would turn out really beautiful ! I was bored of pcb editor so I started making some art for my pcb 
+
+<img width="1176" height="725" alt="image" src="https://github.com/user-attachments/assets/c2b95bba-e370-4150-9db0-568ef8163615" />
+￼
+ Again this was my first time using krita (didnt expect it would go so well) I started making all the things I could think of also I tried to keep it related to our theme Harvest!
+
+ <img width="1182" height="713" alt="image" src="https://github.com/user-attachments/assets/9248f9ed-4e19-461e-96f7-3e0b21d02680" />
+
+￼
+ So the first one was trial but I decided to keep it, the next two turned out to be good 
+I went for a break then but came back to draw some of my coolest stickersssss (still can’t believe, krita was so fun!)
+
+
+ <img width="1183" height="749" alt="image" src="https://github.com/user-attachments/assets/962de613-c2e6-45b2-922f-2b6f23969db5" />
+
+￼
+ This took me a whole bunch of time but turned out real beauty
+I loved it so much that I just forgot about the pcb, and went on drawing! Every cool thing I could think of, I seriously couldn’t stop myself 
+I thought to write out team logo and then I also made our friendly neighbour spidermans logo! 
+￼
+
+<img width="1179" height="743" alt="image" src="https://github.com/user-attachments/assets/bb920af7-0b94-4bd6-887e-ec7741180a43" />
+
+
+Finally back to completing the pcb! 
+
+
