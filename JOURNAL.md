@@ -33,3 +33,18 @@ Last I added J1, a 4-pin header with GND, +5V, and two signal lines going to the
 * J1 — Conn_01x04_Pin, breaking out GND / +5V / OLED_SDA / OLED_SCL for the OLED panel
 * Row1-3 and Col1-4 nets routed across the matrix; SDA/SCL shared between the OLED connector and controller
 
+Journal #3 by @aryansalve041
+Total Time - 2hrs 32 min(case modification) + 3 hrs (art design)
+
+I felt something off at the case deign and some structural errors so i gave some of my time to fix the structurals errors and the other thing was make it more live,
+so i added some wavy feels rather than keepig it like simple box and i too added some of boundary for rotatory switch so that themiddle part which was first visibble to viewwer now could hide so that it would feel kind of stylish rather keeping it like a mechanical feels. I too removed unneccasary part space taking to fit the PCB more precisely. i also added the boundary to the OLED  Screen so that the side part is less visible and the screens feels more wide.
+<img width="1174" height="592" alt="image" src="https://github.com/user-attachments/assets/c77f3925-659d-46da-afb2-e7d19eceeef5" />
+
+
+Now moving toward some styling part of case and PCB sso that it would feel more real and could see it as a mark.
+This was my first time using Krita, so I spent some time getting familiar with the different tools and the interface. I started by trying out the brush, eraser, colours, layers and basic shapes. I then started making the artwork for my on-board design. Since I was using a mouse, making smooth lines and small details was a bit difficult, and I had to use undo and eraser quite often. I also experimented with different brush sizes and layers to make the design look better.
+In the last part, I cleaned up the unwanted lines, adjusted some details and made a few changes to the colours and overall look. Overall, it took me around 2.5–3 hours, and I got more comfortable with Krita while making the artwork.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/512d293c-c53e-48d2-80c4-99e33588ea38" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b6f8f01-bc30-4ec4-ac7d-3c7ca4fda106" />
+
+
