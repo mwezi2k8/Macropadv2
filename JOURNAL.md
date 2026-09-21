@@ -45,6 +45,7 @@ Now moving toward some styling part of case and PCB sso that it would feel more 
 This was my first time using Krita, so I spent some time getting familiar with the different tools and the interface. I started by trying out the brush, eraser, colours, layers and basic shapes. I then started making the artwork for my on-board design. Since I was using a mouse, making smooth lines and small details was a bit difficult, and I had to use undo and eraser quite often. I also experimented with different brush sizes and layers to make the design look better.
 In the last part, I cleaned up the unwanted lines, adjusted some details and made a few changes to the colours and overall look. Overall, it took me around 2.5–3 hours, and I got more comfortable with Krita while making the artwork.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/512d293c-c53e-48d2-80c4-99e33588ea38" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b6f8f01-bc30-4ec4-ac7d-3c7ca4fda106" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fe3aad66-a881-4a6f-8e81-9c824acb4c9d" />
+
 
 
