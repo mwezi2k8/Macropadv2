@@ -3,16 +3,25 @@
 #what is it?
 this is a custom 12-key mechanical macropad i designed in kicad from scratch. it runs on a seeed studio xiao rp2040 board instead of a bulky standard dev board, which keeps the whole thing compact and cheap. it has a 4x3 switch matrix with anti-ghosting diodes, a clickable rotary encoder knob, and a 4-pin header on top for a small i2c oled display.
 
+<img width="766" height="451" alt="image" src="https://github.com/user-attachments/assets/08b3eef3-f937-439f-b696-0fcbbe07af81" />
+
+
 # why make this?
 i use a 60% keyboard daily, and while it looks clean and saves desk space, losing dedicated arrow keys, media buttons, and numpad shortcuts is honestly a pain. memorizing three-key layer combos while working or gaming gets frustrating fast. 
 
 i wanted a standalone pad with dedicated hardware buttons for stuff like discord mutes, copy-pasting, app switching, and terminal shortcuts. plus, having a physical rotary dial to control volume or scrub timelines is way more satisfying than pressing function keys.
+
+<img width="805" height="404" alt="image" src="https://github.com/user-attachments/assets/2c251370-f5ef-44b5-8daa-fcd85ab8dbb4" />
 
 #how does it work?
 - the key matrix:* the 12 switches are wired in a 4-column by 3-row grid connected directly to the xiao gpio pins. the micro-controller quickly scans through the rows and columns to check if a circuit is closed
 - diodes* each switch has its own 1n4148 diode wired in series[cite: 3]. this stops back-powering across rows so you can press multiple keys at the same time without triggering phantom ghost clicks.
 - rotary encoder:* the ec11 encoder pulses signals across two data pins whenever you turn it, letting the code figure out both direction and speed for scrolling or volume adjustments. the center shaft also clicks straight down, working as a 13th input switch
 - oled screen:* hooked up to 5v, ground, sda, and scl pins. it talks over the i2c bus to show what profile or layer you are on, or display real-time stats like click counters.
+
+<img width="807" height="499" alt="image" src="https://github.com/user-attachments/assets/b7348cea-b7bf-45e2-886b-f8087c90b795" />
+
+
 
 #hardware & pcb specs
 - controller:* seeed studio xiao rp2040
@@ -21,3 +30,6 @@ i wanted a standalone pad with dedicated hardware buttons for stuff like discord
 - encoder:* ec11 rotary encoder with integrated push switch
 - display connector:* 4-pin 2.54mm header for 0.96" i2c oled
 - board size:*85.91 mm x 84.00 mm (2-layer pcb)
+
+  <img width="807" height="452" alt="image" src="https://github.com/user-attachments/assets/c25bdc8b-e27f-473e-b768-fcbe375445d5" />
+
