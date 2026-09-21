@@ -82,3 +82,41 @@ I thought to write out team logo and then I also made our friendly neighbour spi
 Finally back to completing the pcb! 
 
 
+
+Journal #5
+By Mwezi2000
+
+Time- 2hrs 2mins (finally completed the pcb and added all the art)
+ 
+Since I couldn’t figure how to add the hole matrix for the keys, I did it all manually each rectangle! One by one, but I made it 
+After that all it was left to connect the components, it went out pretty clean since I already arranged the parts neatly 
+
+<img width="1177" height="725" alt="image" src="https://github.com/user-attachments/assets/a85051b0-0041-482b-b85e-2b5e0551d5b4" />
+
+￼
+The only thing left now was to add all the cool stickers I made before, and the pcb looks amazing after adding them!
+Also my team mate @aryansalve041 himself made some really cool art for my pcb which I added in middle 
+
+
+<img width="1179" height="739" alt="image" src="https://github.com/user-attachments/assets/a9800dbc-6fd2-4a60-9a47-72f84d0f4e7f" />
+
+
+
+<img width="797" height="762" alt="image" src="https://github.com/user-attachments/assets/c3947b23-2918-42a2-869e-124557ebdfbc" />
+
+
+
+￼
+
+￼
+
+For its 3d printed case, this is the design we will be putting on the back of the case
+
+<img width="212" height="271" alt="image" src="https://github.com/user-attachments/assets/88621910-d92a-40e1-b47b-efa10197703c" />
+
+
+
+￼
+
+
+
