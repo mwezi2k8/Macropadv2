@@ -114,6 +114,14 @@ For its 3d printed case, this is the design we will be putting on the back of th
 
 <img width="212" height="271" alt="image" src="https://github.com/user-attachments/assets/88621910-d92a-40e1-b47b-efa10197703c" />
 
+journal #6
+By Mwezi2000
+
+Time- 23 mins
+
+i finally updated my github reopo and uploaded all the pcb, BOM and readme files from my side
+
+
 
 
 ￼
